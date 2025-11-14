@@ -10,8 +10,8 @@ Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment7  
 
 Files:
-db_connect.php
-search.php
+- db_connect.php
+- search.php
 
 ### 3. Run
 MAMP:  
